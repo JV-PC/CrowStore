@@ -11,7 +11,8 @@
       Produto---Carrinho
       
       Home---Search[<a href='#'>Search</a>];
-      Search---Carrinho
+      Search---Produto
+      Produto---Carrinho
 ```
 
 ## Project Report
